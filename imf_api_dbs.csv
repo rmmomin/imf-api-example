@@ -1,0 +1,95 @@
+,Code,Name
+0,FAS,Financial Access Survey (FAS)
+1,IFS,International Financial Statistics (IFS)
+2,MCDREO,Middle East and Central Asia Regional Economic Outlook (MCDREO)
+3,DOT,Direction of Trade Statistics (DOTS)
+4,CDIS,Coordinated Direct Investment Survey (CDIS)
+5,GFS01,Government Finance Statistics (GFS 2001)
+6,BOP_2017M04,"Balance of Payments (BOP), 2017 M04"
+7,BOPAGG,"Balance of Payments (BOP), World and Regional Aggregates"
+8,CPIS,Coordinated Portfolio Investment Survey (CPIS)
+9,APDREO,Asia and Pacific Regional Economic Outlook (APDREO)
+10,FM,Fiscal Monitor (FM)
+11,AFRREO,Sub-Saharan Africa Regional Economic Outlook (AFRREO)
+12,MCDREO201410,MCD Regional Economic Outlook October 2014
+13,FM201410,Fiscal Monitor (FM) October 2014
+14,AFRREO201410,Sub-Saharan Africa Regional Economic Outlook (AFRREO) October 2014
+15,MCDREO201501,MCD Regional Economic Outlook January 2015
+16,APDREO201410,Asia and Pacific Regional Economic Outlook (APDREO) October 2014
+17,COMMP,Primary Commodity Prices
+18,COMMPP,Primary Commodity Prices Projections
+19,WoRLD,World Revenue Longitudinal Data (WoRLD)
+20,GFSR,"Government Finance Statistics (GFS), Revenue"
+21,GFSSSUC,"Government Finance Statistics (GFS), Statement of Sources and Uses of Cash"
+22,GFSCOFOG,"Government Finance Statistics (GFS), Expenditure by Function of Government (COFOG)"
+23,GFSFALCS,"Government Finance Statistics (GFS), Financial Assets and Liabilities by Counterpart Sector"
+24,GFSIBS,"Government Finance Statistics (GFS), Integrated Balance Sheet (Stock Positions and Flows in Assets and Liabilities)"
+25,GFSMAB,"Government Finance Statistics (GFS), Main Aggregates and Balances"
+26,GFSE,"Government Finance Statistics (GFS), Expense"
+27,PGI,Principal Global Indicators (PGI)
+28,WHDREO201504,Western Hemisphere Regional Economic Outlook (WHDREO) April 2015
+29,WCED,World Commodity Exporters (WCED)
+30,WHDREO,Western Hemisphere Regional Economic Outlook (WHDREO)
+31,FM201504,Fiscal Monitor (FM) April 2015
+32,APDREO201504,Asia and Pacific Regional Economic Outlook (APDREO) April 2015
+33,MCDREO201505,MCD Regional Economic Outlook May 2015
+34,AFRREO201504,Sub-Saharan Africa Regional Economic Outlook (AFRREO) April 2015
+35,CDISARCHIVE,Coordinated Direct Investment Survey (CDIS) - Archive
+36,ICSD,Investment and Capital Stock (ICSD)
+37,HPDD,Historical Public Debt (HPDD)
+38,COFR,Coverage of Fiscal Reporting (COFR)
+39,CPI,Consumer Price Index (CPI)
+40,IRFCL,International Reserves and Foreign Currency Liquidity (IRFCL)
+41,COFER,Currency Composition of Official Foreign Exchange Reserves (COFER)
+42,FM201510,Fiscal Monitor (FM) October 2015
+43,RAFIT2AGG,Revenue Administration Fiscal Information Tool (RA-FIT) Round 2 Aggregates
+44,ITS,International Trade in Services
+45,MCDREO201510,MCD Regional Economic Outlook (MCDREO) October 2015
+46,WHDREO201510,Western Hemisphere Regional Economic Outlook (WHDREO) October 2015
+47,APDREO201510,Asia and Pacific Regional Economic Outlook (APDREO) October 2015
+48,AFRREO201510,Sub-Saharan Africa Regional Economic Outlook (AFRREO) October 2015
+49,GFSYR2014,"Government Finance Statistics Yearbook (GFSY 2014), Revenue"
+50,GFSYSSUC2014,"Government Finance Statistics Yearbook (GFSY 2014), Statement of Sources and Uses of Cash"
+51,GFSYCOFOG2014,"Government Finance Statistics Yearbook (GFSY 2014), Expenditure by Function of Government (COFOG)"
+52,GFSYIBS2014,"Government Finance Statistics Yearbook (GFSY 2014), Integrated Balance Sheet (Stock Positions and Flows in Assets and Liabilities)"
+53,GFSYMAB2014,"Government Finance Statistics Yearbook (GFSY 2014), Main Aggregates and Balances"
+54,GFSYFALCS2014,"Government Finance Statistics Yearbook (GFSY 2014), Financial Assets and Liabilities by Counterpart Sector"
+55,GFSYE2014,"Government Finance Statistics Yearbook (GFSY 2014), Expense"
+56,GFSIBS2015,"Government Finance Statistics Yearbook (GFSY 2015), Integrated Balance Sheet (Stock Positions and Flows in Assets and Liabilities)"
+57,GFSR2015,"Government Finance Statistics Yearbook (GFSY 2015), Revenue"
+58,GFSFALCS2015,"Government Finance Statistics Yearbook (GFSY 2015), Financial Assets and Liabilities by Counterpart Sector"
+59,GFSSSUC2015,"Government Finance Statistics Yearbook (GFSY 2015), Statement of Sources and Uses of Cash"
+60,GFSMAB2015,"Government Finance Statistics Yearbook (GFSY 2015), Main Aggregates and Balances"
+61,GFSCOFOG2015,"Government Finance Statistics Yearbook (GFSY 2015), Expenditure by Function of Government (COFOG)"
+62,GFSE2015,"Government Finance Statistics Yearbook (GFSY 2015), Expense"
+63,BOPSDMXUSD,"Balance of Payments (BOP), Global SDMX (US Dollars)"
+64,NAMAIN_IDC_N,"System of National Accounts (SNA), NAMAIN_IDC_N"
+65,FM201604,Fiscal Monitor (FM) April 2016
+66,APDREO201604,Asia and Pacific Regional Economic Outlook (APDREO) April 2016
+67,WHDREO201604,Western Hemisphere Regional Economic Outlook (WHDREO) April 2016
+68,MCDREO201604,MCD Regional Economic Outlook (MCDREO) April 2016
+69,AFRREO201604,Sub-Saharan Africa Regional Economic Outlook (AFRREO) April 2016
+70,GENDER_BUDGETING,Gender Budgeting
+71,GENDER_EQUALITY,Gender Equality
+72,FDI,Financial Development Index
+73,FSI,Financial Soundness Indicators (FSI)
+74,FSIRE,"Financial Soundness Indicators, Reporting Entities (FS1)"
+75,GFSSSUC2016,"Government Finance Statistics Yearbook (GFSY 2016), Statement of Sources and Uses of Cash"
+76,GFSR2016,"Government Finance Statistics Yearbook (GFSY 2016), Revenue"
+77,GFSMAB2016,"Government Finance Statistics Yearbook (GFSY 2016), Main Aggregates and Balances"
+78,GFSIBS2016,"Government Finance Statistics Yearbook (GFSY 2016), Integrated Balance Sheet (Stock Positions and Flows in Assets and Liabilities)"
+79,GFSFALCS2016,"Government Finance Statistics Yearbook (GFSY 2016), Financial Assets and Liabilities by Counterpart Sector"
+80,GFSE2016,"Government Finance Statistics Yearbook (GFSY 2016), Expense"
+81,GFSCOFOG2016,"Government Finance Statistics Yearbook (GFSY 2016), Expenditure by Function of Government (COFOG)"
+82,FM201610,Fiscal Monitor (FM) October 2016
+83,MCDREO201610,MCD Regional Economic Outlook (MCDREO) October 2016
+84,AFRREO201610,Sub-Saharan Africa Regional Economic Outlook (AFRREO) October 2016
+85,APDREO201610,Asia and Pacific Regional Economic Outlook (APDREO) October 2016
+86,WHDREO201610,Western Hemisphere Regional Economic Outlook (WHDREO) October 2016
+87,BOP,Balance of Payments (BOP)
+88,FAS_2015,"Financial Access Survey (FAS), 2015"
+89,BOPAGG_2016,"Balance of Payments (BOP), World and Regional Aggregates, 2016"
+90,FAS_2016,"Financial Access Survey (FAS), 2016"
+91,BOP_2017M05,"Balance of Payments (BOP), 2017 M05"
+92,DOT_2017Q1,"Direction of Trade Statistics (DOTS), 2017 Q1"
+93,BOP_2017M6,"Balance of Payments (BOP), 2017 M06"
